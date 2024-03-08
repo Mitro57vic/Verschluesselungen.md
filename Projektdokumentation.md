@@ -51,7 +51,7 @@ Filip Mitrovic, Filip Kritzner, Raul Gilardoni und Lennard Bühler
 
 | AP-№ | Zuständig | Beschreibung | geplante Zeit |
 | ---- |  --------- | ------------ | ------------- |
-| 1.A  |           Lennard Bühler       |  Der User wird nach dem Namen gefragt            |   30 Min            |
+| 1.A  |                |            |              |
     
 |Total|    |      |        |
 
