@@ -1,1 +1,92 @@
+# Projekt-Dokumentation
+
+
+
+Filip Mitrovic, Julian Warnebold, Julian Hitz, Justus Meister, Lennard Bühler
+
+| Datum | Version | Zusammenfassung                                              |
+| ----- | ------- | ------------------------------------------------------------ |
+|   08.03.2024    | 0.0.1   |  Wir haben uns für ein Projekt netschieden und uns darüber informiert.|
+
+
+## 1 Informieren
+
+### 1.1 Ihr Projekt
+
+Wir machen ein Spiel in Visual Studio mit WinForms, dass dem Spiel Pong ähnlich ist, Pong ist ein Spiel, bei welchem sich zwei Balken gegenüberstehen und sich einen Ball zuspielen. Ziel ist es, den Ball hinter die Linie des Mitspielers zu befördern.
+
+
+
+
+### 1.2 User Stories
+
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| ---- | --------------- | ---- | ---------------------------------- |
+| 1    |       kann         |   funktional   | Als User möchte ich ein Schwierigkeit bei dem Gegner auswählen können, damit es verschiedene Schwierigkeiten gibt.  |
+
+
+
+
+
+
+
+
+
+
+
+### 1.3 Testfälle
+
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| ---- | ------------ | ------- | ----------------- |
+| 1.1  |      Programm wird geöffnet        |  Der User wählt eine Schwierigkeit aus       |   Der Gegner im nächsten spiel hat diese Schwierigkeit                |
+
+
+
+### 1.4 Diagramme
+
+
+
+
+## 2 Planen
+
+| AP-№ | Zuständig | Beschreibung | geplante Zeit |
+| ---- |  --------- | ------------ | ------------- |
+| 1.A  |           Lennard Bühler       |  Der User wird nach dem Namen gefragt            |   30 Min            |
+    
+|Total|    |      |        |
+
+
+
+
+## 3 Entscheiden
+
+Wir haben uns entschieden einen Timer einzubauen, da uns dies schon im letzten Projekt gut gelungen ist und es praktisch ist für unser Spiel.
+
+Wir haben uns entschieden ein System einzubauen, dass bei 10 erzielten Punkten das Spiel beendet, damit das Spiel auch ein Punktlimit besitzt.
+
+
+## 4 Realisieren
+
+| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A  |    29.11.2022     |    Lennard Bühler       |      30 min         |        25 min           |
+
+|Total|       |        |          |       |
+
+
+
+## 5 Kontrollieren
+
+### 5.1 Testprotokoll
+
+| TC-№ | Datum | Resultat | Tester |
+| ---- | ----- | -------- | ------ |
+| 1.1  |    13.12.2022   |     Funktioniert nicht     |  Mitrovic+Meister      |
+
+
+`Fazit:`
+
+Die wichtigsten Teile des Programmes sind mit Erfolg ausgegangen, somit ist unser Programm spielbar. Doch Leider konnten wir wegen geringer Zeit nicht alle unsere Wünsche für das Programm erfüllen.
+
+## 6 Auswerten
 
