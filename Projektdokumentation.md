@@ -38,7 +38,7 @@ Filip Mitrovic, Filip Kritzner, Raul Gilardoni und Lennard Bühler
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      Programm wird geöffnet        |  Der User wählt eine Schwierigkeit aus       |   Der Gegner im nächsten spiel hat diese Schwierigkeit                |
+| 1.1  |      Programm wird geöffnet        |        |                   |
 
 
 
