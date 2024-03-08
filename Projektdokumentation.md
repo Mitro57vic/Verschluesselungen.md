@@ -2,7 +2,7 @@
 
 
 
-Filip Mitrovic, Julian Warnebold, Julian Hitz, Justus Meister, Lennard Bühler
+Filip Mitrovic, Filip Kritzner, Raul Gilardoni und Lennard Bühler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
