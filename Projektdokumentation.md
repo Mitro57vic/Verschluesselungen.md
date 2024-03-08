@@ -6,14 +6,14 @@ Filip Mitrovic, Filip Kritzner, Raul Gilardoni und Lennard Bühler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   08.03.2024    | 0.0.1   |  Wir haben uns für ein Projekt netschieden und uns darüber informiert.|
+|   08.03.2024    | 0.0.1   |  Wir haben uns für ein Projekt entschieden und uns darüber informiert.|
 
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein Spiel in Visual Studio mit WinForms, dass dem Spiel Pong ähnlich ist, Pong ist ein Spiel, bei welchem sich zwei Balken gegenüberstehen und sich einen Ball zuspielen. Ziel ist es, den Ball hinter die Linie des Mitspielers zu befördern.
+
 
 
 
@@ -22,7 +22,7 @@ Wir machen ein Spiel in Visual Studio mit WinForms, dass dem Spiel Pong ähnlich
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       kann         |   funktional   | Als User möchte ich ein Schwierigkeit bei dem Gegner auswählen können, damit es verschiedene Schwierigkeiten gibt.  |
+| 1    |       kann         |   funktional   |   |
 
 
 
