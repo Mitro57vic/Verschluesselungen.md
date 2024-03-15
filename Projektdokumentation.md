@@ -7,6 +7,7 @@ Filip Mitrovic, Filip Kritzner, Raul Gilardoni und Lennard Bühler
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   08.03.2024    | 0.0.1   |  Wir haben uns für ein Projekt entschieden und uns darüber informiert.|
+|   15.03.2024    | 0.0.2   |  Wir haben angefangen unser Projekt zu implementieren und haben unsere Projektdokumentation erweitert.|
 
 
 ## 1 Informieren
