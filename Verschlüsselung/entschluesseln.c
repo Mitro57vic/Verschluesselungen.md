@@ -33,14 +33,14 @@ int main(int argc, char *argv[])
         char *pfad_bild = argv[2];
         char *pfad_ausgabe = argv[4];
 
-        FILE *eingabe = fopen(pfad_bild, "rb");
+        FILE *eingabe = fopen(pfad_bild, "rb"); // von https://www.w3schools.com/c/c_files_read.php
         if (eingabe == NULL)
         {
             printf("Fehler beim Oeffnen von\n");
             return 2;
         }
 
-        FILE *ausgabe = fopen(pfad_ausgabe, "wb");
+        FILE *ausgabe = fopen(pfad_ausgabe, "wb"); // von https://www.w3schools.com/c/c_files_read.php
         if (ausgabe == NULL)
         {
             printf("Fehler beim Oeffnen von\n");
