@@ -47,6 +47,7 @@ int main(int argc, char *argv[])
             return 3;
         }
 
+        // https://stackoverflow.com/questions/67035970/how-to-read-bmp-file-in-c
         BITMAPFILEHEADER bf;
         fread(&bf, sizeof(BITMAPFILEHEADER), 1, eingabe);
 
