@@ -47,11 +47,9 @@ int main(int argc, char *argv[])
             return 3;
         }
 
-        // Read infile's BITMAPFILEHEADER
         BITMAPFILEHEADER bf;
         fread(&bf, sizeof(BITMAPFILEHEADER), 1, eingabe);
 
-        // Read infile's BITMAPINFOHEADER
         BITMAPINFOHEADER bi;
         fread(&bi, sizeof(BITMAPINFOHEADER), 1, eingabe);
 
@@ -77,34 +75,25 @@ int main(int argc, char *argv[])
             return 5;
         }
 
-        // Determine padding for scanlines
         int padding = (4 - (breite * sizeof(RGBTRIPLE)) % 4) % 4;
 
-        // Iterate over infile's scanlines
         for (int i = 0; i < hoehe; i++)
         {
-            // Read row into pixel array
             fread(bild[i], sizeof(RGBTRIPLE), breite, eingabe);
 
-            // Skip over padding
             fseek(eingabe, padding, SEEK_CUR);
         }
 
-        // Write outfile's BITMAPFILEHEADER
         fwrite(&bf, sizeof(BITMAPFILEHEADER), 1, ausgabe);
 
-        // Write outfile's BITMAPINFOHEADER
         fwrite(&bi, sizeof(BITMAPINFOHEADER), 1, ausgabe);
 
         bild_entschluesseln(hoehe, breite, bild, key);
 
-        // Write new pixels to outfile
         for (int i = 0; i < hoehe; i++)
         {
-            // Write row to outfile
             fwrite(bild[i], sizeof(RGBTRIPLE), breite, ausgabe);
 
-            // Write padding at end of row
             for (int k = 0; k < padding; k++)
             {
                 fputc(0x00, ausgabe);
