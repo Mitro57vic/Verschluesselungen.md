@@ -27,10 +27,14 @@ Filip Mitrovic, Filip Kritzner, Raul Gilardoni und Lennard Bühler
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       kann         |   funktional   |   |
-
-
-
+| 1    |       Muss         |   funktional   | Als User möchte ich, das das Programm einen Text einlesen kann |
+| 2    |       Muss         |   funktional   | Als User möchte ich, das das Programm einen Text verschlüsseln kann  |
+| 3    |       Muss         |   funktional   | Als User möchte ich, das das Programm einen verschlüsselten Text ausgeben kann  |
+| 4    |       Muss         |   funktional   | Als User möchte ich, das das Programm ein Bild einlesen kann  |
+| 5    |       Muss         |   funktional   | Als User möchte ich, das das Programm ein Bild verschlüsseln kann  |
+| 6    |       Muss         |   funktional   | Als User möchte ich, das das Programm ein verschlüsseltes Bild ausgeben kann |
+| 7    |       Muss         |   funktional   | Als User möchte ich, das ich einen eigenen Schlüssel zur Verschlüsselung von Bilder auswählen kann |
+| 8    |       Muss         |   funktional   | Als User möchte ich, das ich einen eigenen Schlüssel zur Verschlüsselung von Texten auswählen kann  |
 
 
 
@@ -43,8 +47,14 @@ Filip Mitrovic, Filip Kritzner, Raul Gilardoni und Lennard Bühler
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      Programm wird geöffnet        |        |                   |
-
+| 1.1  |      Programm wird geöffnet        | Text wird eingefügt       |    Text wird vom Programm eingelesen               |
+| 2.1  |      Programm wird geöffnet und Text ist eigefügt        |  Schlüssel wird ausgewählt      |   Programm verschlüsselt Text |
+| 3.1  |      Programm wird geöffnet, Text ist eingefügt und Text wurde vom Programm verschlüssselt|Kein|Verschlüsselter Text wird ausgegeben|
+| 4.1  |      Programm wird geöffnet        | Bild wird eigefügt       |    Bild wird vom Programm eingelesen                      |
+| 5.1  |      Programm wird geöffnet und Bild ist eigefügt        |Schlüssel wird ausgewählt        |  Programm verschlüsselt Bild   |
+| 6.1  |      Programm wird geöffnet,Bild ist eingefügt und Bild wurde vom Programm verschlüssselt|Keine|Verschlüsseltes Bild wird ausgegeben|
+| 7.1  |      Programm wird geöffnet und Bild ist eigefügt|   Schlüssel wählen     |  Bild wird mit gewählten Schlüssel verschlüsselt |
+| 8.1  |      Programm wird geöffnet und Text ist eigefügt    |  Schlüssel wählen|  Text wird mit gewählten Schlüssel verschlüsselt   |
 
 
 ### 1.4 Diagramme
@@ -56,9 +66,33 @@ Filip Mitrovic, Filip Kritzner, Raul Gilardoni und Lennard Bühler
 
 | AP-№ | Zuständig | Beschreibung | geplante Zeit |
 | ---- |  --------- | ------------ | ------------- |
-| 1.A  |                |            |              |
-    
-|Total|    |      |        |
+| 1.A  |    Lennard Bühler            |            |              |
+| 2.A  |    Lennard Bühler               |            |              |
+| 3.A  |    Lennard Bühler               |            |              |
+| 4.A  |    Lennard Bühler               |            |              |
+| 5.A  |    Lennard Bühler               |            |              |
+| 6.A  |  Filip Mitrovic               |            |              |
+| 7.A  |   Filip Mitrovic                   |            |              |
+| 8.A  |   Filip Mitrovic                   |            |              |
+| 9.A  |    Filip Mitrovic            |            |              |
+| 10.A  |     Filip Mitrovic               |            |              |
+| 11.A  |     Filip Mitrovic               |            |              |
+| 12.A  |    Filip Kritzner                |            |              |
+| 13.A  |     Filip Kritzner             |            |              |
+| 14.A  |    Filip Kritzner                |            |              |
+| 15.A  |    Filip Kritzner              |            |              |
+| 16.A  |    Filip Kritzner            |            |              |
+| 17.A  |   Filip Kritzner             |            |              |
+| 18.A  |   Filip Kritzner             |            |              |
+| 1.A  |    Filip Kritzner            |            |              |
+| 19.A  |  Filip Kritzner              |            |              |
+| 20.A  | Raul Gilardoni               |            |              |
+| 21.A  |   Raul Gilardoni               |            |              |
+| 22.A  |   Raul Gilardoni               |            |              |
+| 23.A  |   Raul Gilardoni               |            |              |
+| 24.A  |   Raul Gilardoni               |            |              |
+
+
 
 
 
