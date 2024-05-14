@@ -67,31 +67,31 @@ Unser Projekt umfasst eine einfache Verschlüsselungssoftware für Texte und Bil
 
 | AP-№ | Zuständig | geplante Zeit | Beschreibung |
 | ---- |  --------- | ------------ | ------------- |
-| 1.A  |    Lennard Bühler            | 60           |              |
+| 1.A  |    Lennard Bühler            | 60           |     Überblick und Verständnis der Struktur und Funktionalität von C erlangen.         |
 | 2.A  |    Lennard Bühler               |  60            |              |
 | 3.A  |    Lennard Bühler               |   30         |              |
-| 4.A  |    Lennard Bühler               |  60            |              |
-| 5.A  |    Lennard Bühler               |   30         |              |
-| 6.A  |  Filip Mitrovic               |   60           |              |
+| 4.A  |    Lennard Bühler               |  60            |   Bearbeitung der Projektdokumentation.                |
+| 5.A  |    Lennard Bühler               |   300        |      Erstellen des Portfolios.        |
+| 6.A  |  Filip Mitrovic               |   60           |  Überblick und Verständnis der Struktur und Funktionalität von C erlangen.            |
 | 7.A  |   Filip Mitrovic                   |   60           |              |
 | 8.A  |   Filip Mitrovic                   |  30          |              |
 | 9.A  |    Filip Mitrovic            |      60        |              |
 | 10.A  |     Filip Mitrovic               |  30          |              |
-| 11.A  |     Filip Mitrovic               |  60            |              |
-| 12.A  |    Filip Kritzner                |  60            |              |
-| 13.A  |     Filip Kritzner             |     30       |              |
-| 14.A  |    Filip Kritzner                |  60            |              |
-| 15.A  |    Filip Kritzner              |  60            |              |
-| 16.A  |    Filip Kritzner            |     30       |              |
+| 11.A  |     Filip Mitrovic               |  300           |   Erstellen des Portfolios.           |
+| 12.A  |    Filip Kritzner                |  60            |     Überblick und Verständnis der Struktur und Funktionalität von C erlangen.         |
+| 13.A  |     Filip Kritzner             |     30       |  Entwicklung der Hauptfunktionen in program.c.            |
+| 14.A  |    Filip Kritzner                |  60            |   Implementierung der Header-Datei program.h           |
+| 15.A  |    Filip Kritzner              |  60            |  mplementierung der Benutzeroberfläche (GUI) unter Verwendung von yard.bmp.            |
+| 16.A  |    Filip Kritzner            |     30       |   Integration der GUI mit der Hauptapplikation.           |
 | 17.A  |   Filip Kritzner             |   60           |              |
-| 18.A  |   Filip Kritzner             |     30       |              |
-| 1.A  |    Filip Kritzner            |    60          |              |
-| 19.A  |  Filip Kritzner              |     30       |              |
-| 20.A  | Raul Gilardoni               |     60         |              |
-| 21.A  |   Raul Gilardoni               |     90       |              |
-| 22.A  |   Raul Gilardoni               |       90     |              |
-| 23.A  |   Raul Gilardoni               |         60   |              |
-| 24.A  |   Raul Gilardoni               |           60 |              |
+| 18.A  |   Filip Kritzner             |     30       |   Bearbeiten der Projektdokumentation.                     |
+| 1.A  |    Filip Kritzner            |    300          |   Erstellen des Portfolios.           |
+| 19.A  |  Filip Kritzner              |     30       |  Optimierung des Codes für bessere Leistung und Wartbarkeit.            |
+| 20.A  | Raul Gilardoni               |     60         |     Überblick und Verständnis der Struktur und Funktionalität von C erlangen.         |
+| 21.A  |   Raul Gilardoni               |     90       | Debugging und Fehlerbehebung basierend auf den Testergebnissen.             |
+| 22.A  |   Raul Gilardoni               |       90     |    	Implementierung von Sicherheitsmaßnahmen           |
+| 23.A  |   Raul Gilardoni               |         60   |   Bearbeitung der Projektdokumentation.          |
+| 24.A  |   Raul Gilardoni               |           300 |     Erstellen des Portfolios.         |
 
 
 ## 3 Entscheiden
