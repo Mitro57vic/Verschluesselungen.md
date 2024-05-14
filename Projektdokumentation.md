@@ -65,7 +65,7 @@ Unser Projekt umfasst eine einfache Verschlüsselungssoftware für Texte und Bil
 
 ## 2 Planen
 
-| AP-№ | Zuständig | Beschreibung | geplante Zeit |
+| AP-№ | Zuständig | geplante Zeit | Beschreibung |
 | ---- |  --------- | ------------ | ------------- |
 | 1.A  |    Lennard Bühler            | 60           |              |
 | 2.A  |    Lennard Bühler               |  60            |              |
