@@ -154,4 +154,4 @@ Unser Projekt umfasst eine einfache Verschlüsselungssoftware für Texte und Bil
 
 
 `Fazit:`
-Das Projekt ist sehr gut verlaufen. Das Programm funktioniert, man kann Text und Bilder verschlüsseln und entschlüsseln lassen.
+Das Projekt ist äußerst erfolgreich verlaufen, alle Ziele wurden erreicht. Das Programm funktioniert einwandfrei und ermöglicht es den Benutzern, sowohl Text als auch Bilder zu verschlüsseln und wieder zu entschlüsseln.
