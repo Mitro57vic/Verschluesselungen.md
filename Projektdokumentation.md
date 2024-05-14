@@ -8,10 +8,10 @@ Filip Mitrovic, Filip Kritzner, Raul Gilardoni und Lennard Bühler
 | ----- | ------- | ------------------------------------------------------------ |
 |   08.03.2024    | 0.0.1   |  Wir haben uns für ein Projekt entschieden und uns darüber informiert.|
 |   15.03.2024    | 0.0.2   |  Wir haben angefangen unser Projekt zu implementieren und haben unsere Projektdokumentation erweitert.|
-|   23.03.2024    | 0.0.3   |  |
-|   06.04.2024    | 0.0.4   | |
-|   26.04.2024    | 0.0.5   |  |
-|   03.05.2024    | 1.0.0   | Programm ist fertig |
+|   23.03.2024    | 0.0.3   |  Wir haben die Textverschlüsselung implementiert. |
+|   06.04.2024    | 0.0.4   |  Wir haben uns befasst mit dem Öffnen und Lesen von BMP Dateien. |
+|   26.04.2024    | 0.0.5   |  Wir haben Bildverschlüsselung und die Entschlüsselung erfolgreich implementiert. |
+|   03.05.2024    | 1.0.0   | Programm ist fertig und wir haben Portfolios verfasst. |
 
 
 ## 1 Informieren
@@ -154,7 +154,4 @@ Unser Projekt umfasst eine einfache Verschlüsselungssoftware für Texte und Bil
 
 
 `Fazit:`
-
-
-## 6 Auswerten
-
+Das Projekt ist sehr gut verlaufen. Das Programm funktioniert, man kann Text und Bilder verschlüsseln und entschlüsseln lassen.
