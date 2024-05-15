@@ -103,31 +103,31 @@ Unser Projekt umfasst eine einfache Verschlüsselungssoftware für Texte und Bil
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A   |        |    Lennard Bühler            |  60          |              |
-| 2.A   |        |     Lennard Bühler               |    60          |              |
-| 3.A   |        |    Lennard Bühler               |    30        |              |
-| 4.A   |        |    Lennard Bühler               |     60         |              |
-| 5.A   |        |     Lennard Bühler               |    300        |              |
-| 6.A   |        |  Filip Mitrovic               |     60         |              |
-| 7.A   |        |   Filip Mitrovic                   |  60            |              |
-| 8.A   |        | Filip Mitrovic                   |     30       |              |
-| 9.A   |        |  Filip Mitrovic            |      60        |              |
-| 10.A  |        |  Filip Mitrovic               |   30         |              |
-| 11.A  |        |  Filip Mitrovic               |  300          |              |
-| 12.A  |        | Filip Kritzner                |     60         |              |
-| 13.A  |        | Filip Kritzner             |    30        |              |
-| 14.A  |        |  Filip Kritzner                |   60           |              |
-| 15.A  |        |  Filip Kritzner              |     60         |              |
-| 16.A  |        |   Filip Kritzner            |  30          |              |
-| 17.A  |        |    Filip Kritzner             |   60           |              |
-| 18.A  |        |    Filip Kritzner             |    30        |              |
-| 1.A   |        |    Filip Kritzner            |  300          |              |
-| 19.A  |        |   Filip Kritzner              |       30     |              |
-| 20.A  |        |   Raul Gilardoni               |  60            |              |
-| 21.A  |        |  Raul Gilardoni               |  90          |              |
-| 22.A  |        |  Raul Gilardoni               |    90        |              |
-| 23.A  |        |  Raul Gilardoni               |       60       |              |
-| 24.A  |        |  Raul Gilardoni               |    300        |              |
+| 1.A   |        |    Lennard Bühler            |  60          |       60       |
+| 2.A   |        |     Lennard Bühler               |    60          |  60            |
+| 3.A   |        |    Lennard Bühler               |    30        |          30    |
+| 4.A   |        |    Lennard Bühler               |     60         |          60    |
+| 5.A   |        |     Lennard Bühler               |    300        |            300  |
+| 6.A   |        |  Filip Mitrovic               |     60         |60              |
+| 7.A   |        |   Filip Mitrovic                   |  60            |60              |
+| 8.A   |        | Filip Mitrovic                   |     30       |      30        |
+| 9.A   |        |  Filip Mitrovic            |      60        |            60  |
+| 10.A  |        |  Filip Mitrovic               |   30         |             30 |
+| 11.A  |        |  Filip Mitrovic               |  300          |          300  |
+| 12.A  |        | Filip Kritzner                |     60         |            60  |
+| 13.A  |        | Filip Kritzner             |    30        |            30  |
+| 14.A  |        |  Filip Kritzner                |   60           |        60      |
+| 15.A  |        |  Filip Kritzner              |     60         |            60  |
+| 16.A  |        |   Filip Kritzner            |  30          |             30 |
+| 17.A  |        |    Filip Kritzner             |   60           |           60   |
+| 18.A  |        |    Filip Kritzner             |    30        |           30   |
+| 1.A   |        |    Filip Kritzner            |  300          |             300 |
+| 19.A  |        |   Filip Kritzner              |       30     |         30     |
+| 20.A  |        |   Raul Gilardoni               |  60            |        60      |
+| 21.A  |        |  Raul Gilardoni               |  90          |             90 |
+| 22.A  |        |  Raul Gilardoni               |    90        |         90     |
+| 23.A  |        |  Raul Gilardoni               |       60       |         60     |
+| 24.A  |        |  Raul Gilardoni               |    300        |            300  |
 
 
 
